@@ -25,6 +25,7 @@ nav {
 
 .brand-container {
   padding: 0;
+
 }
 
 .navbar-brand:hover {
@@ -75,6 +76,10 @@ nav {
   background-repeat: no-repeat;
   background-size: cover;
   height: 70rem;
+}
+
+.more{
+  display: none;
 }
 
 .container {
