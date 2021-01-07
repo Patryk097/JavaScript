@@ -33,5 +33,9 @@ window.addEventListener('scroll', function menuBorder(){
 	document.querySelector('.nav-list').style.borderBottom = '2px solid #808080';
 	})
 
+document.querySelector('.btn-backtotop').addEventListener('click', function backToTop(){
+	window.scroll(0,0);
+	})
+
 });
 

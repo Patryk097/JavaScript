@@ -304,6 +304,11 @@ footer {
   height: 10rem;
 }
 
+.btn-backtotop{
+  padding: 1.5rem;
+  font-weight: bold;
+}
+
 footer p {
   font-size: 1.2rem;
   color: #424343;
