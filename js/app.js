@@ -29,5 +29,9 @@ document.querySelector(".for-dropdown a").addEventListener("mouseout", function 
     buttons[i].addEventListener('click', showHide);
   }
 
+window.addEventListener('scroll', function menuBorder(){
+	document.querySelector('.nav-list').style.borderBottom = '2px solid #808080';
+	})
+
 });
 
