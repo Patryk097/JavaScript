@@ -280,6 +280,16 @@ nav {
   list-style: none;
 }
 
+.org{
+  display: none;
+}
+
+
+.visible{
+  display: inline-block;
+}
+
+
 .dot {
   display: inline-block;
   margin-right: 1rem;
